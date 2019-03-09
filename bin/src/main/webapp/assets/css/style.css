@@ -1,0 +1,27 @@
+body {
+	background-image: linear-gradient(-90deg, #e6ffff, #e6e6ff);
+}
+
+#modelS {
+	border: 2px solid #7f7f7f;
+	border-radius: 5px;
+	width: 60%;
+	position: absolute;
+	top: 10%;
+	left: 20%;
+	background-image: linear-gradient(-90deg, #8000ff, #c8ffff);
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0
+		rgba(0, 0, 0, 0.5);
+	color: white;
+	padding: 2%;
+	text-align: center;
+}
+
+#modelS>#vertLine {
+	border-right: 2px solid #ffffff;
+	width: 50%;
+}
+
+#loginForm {
+	align: center;
+}
